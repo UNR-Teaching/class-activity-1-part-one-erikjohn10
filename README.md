@@ -2,6 +2,8 @@
 
 Welcome to CS 491 - Testing and DevOps! Your first assignment is outlined below:
 
+Student Name: Erik Johnson
+
 ### Problem 1
 
 Write a Python program that prints "Hello, World!" to standard out. Save this as **problem1.py**.
